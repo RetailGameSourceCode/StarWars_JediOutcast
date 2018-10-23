@@ -12,7 +12,8 @@ The code here should be consistent with the released version. The existing Visua
 
 No further updates to this repository are planned unless updates are posted by Raven Software. Please fork the repository if you want to contribute changes.
 
-**Platform:** Xbox, Win32, Gamecube
-**Game:** Star Wars: Jedi-Outcast
-**Type:** Source Code - Complete / Buildable.
-**Source:** https://github.com/grayj/Jedi-Outcast
+## Release Info
+**Platform:** Xbox, Win32, Gamecube  
+**Game:** Star Wars: Jedi-Outcast  
+**Type:** Source Code - Complete / Buildable.  
+**Source:** https://github.com/grayj/Jedi-Outcast  
