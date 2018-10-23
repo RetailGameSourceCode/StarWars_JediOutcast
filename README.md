@@ -1,4 +1,4 @@
-Jedi-Outcast
+Star Wars: Jedi-Outcast
 ============
 
 Final source code for [Star Wars Jedi Knight II: Jedi Outcast](https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight_II:_Jedi_Outcast)
@@ -11,3 +11,8 @@ The initial release can be found [on SourceForge](http://sourceforge.net/project
 The code here should be consistent with the released version. The existing Visual SourceSafe meta files have been removed and Git files have been added.
 
 No further updates to this repository are planned unless updates are posted by Raven Software. Please fork the repository if you want to contribute changes.
+
+**Platform:** Xbox, Win32, Gamecube
+**Game:** Star Wars: Jedi-Outcast
+**Type:** Source Code - Complete / Buildable.
+**Source:** https://github.com/grayj/Jedi-Outcast
